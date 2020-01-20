@@ -31,7 +31,9 @@ Some notable features:
   * <img class = "help menu" src = "/images/help-menu.png">
 * RPG "mini-game" system (PvP tested working, need to manually add skills. Alpha-test stage.)
 * Debug-mode
-  * <img class = "error report" src = "/images/bot-error.png">
+
+<img class = "error report" src = "/images/bot-error.png">
+
 
 
 The source code can be found [here](https://github.com/Necom1/Hana-Bot).
