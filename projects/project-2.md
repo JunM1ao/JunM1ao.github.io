@@ -5,7 +5,7 @@ image: images/project2.png
 title: ICS 111 Project 2
 permalink: projects/ics111project2
 # All dates must be YYYY-MM-DD format!
-date: 2018-09-14
+date: 2018-10-19
 labels:
   - ICS 111
   - EZJava
