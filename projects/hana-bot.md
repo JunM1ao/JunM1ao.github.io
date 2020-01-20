@@ -19,7 +19,7 @@ Hana bot is a discord bot mainly built for moderation purposes.
 
 Some notable features:
 * Converting server updates the bot receives and sends it into the desired channel as embed
-<img class = "name change" src = "/images/update1.png">
+  <img class = "name change" src = "/images/update1.png">
 * Scans message received from a member through given word list for inappropriate words
 
 
