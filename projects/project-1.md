@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/project1.png
-title: Micromouse
+title: ICS 111 Project 1
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-14
