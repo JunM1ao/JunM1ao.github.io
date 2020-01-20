@@ -27,9 +27,10 @@ Some notable features:
 * Anti raid
 * Mute / Warn system
 * Automatic join role system
+* Interactive (reaction based) help menu
 * RPG "mini-game" system (PvP tested working, need to manually add skills. Alpha-test stage.)
 * Debug-mode
-  * <img class = "error report" src = "/images/bot-error.png">
+  * <img class = "error report" src = "/images/help-menu.png">
 
 
 The source code can be found [here](https://github.com/Necom1/Hana-Bot).
