@@ -14,12 +14,7 @@ summary: A discord bot made with discord.py (python) and MongoDB.
 ---
 As of 2020-1-19, the project is still ongoing.
 
-<div class="ui small rounded images">
-  <img class="ui images" src="../images/update1.png">
-  <img class="ui images" src="../images/update2.png">
-  <img class="ui images" src="../images/help-menu.png">
-</div>
-
+<img class="big intro" src="../images/help-menu.png">
 
 Hana bot is a discord bot mainly built for moderation purposes. The bot is not server dependent, so this can work on any server and multiple servers. However, the first time setup might take some time as settings can only be changed through discord alone.
 
@@ -35,5 +30,9 @@ Some notable features:
 * RPG "mini-game" system (PvP tested working, need to manually add skills. Alpha-test stage.)
 * Debug-mode
 
+<div class="ui small rounded images">
+  <img class="ui images" src="../images/update1.png">
+  <img class="ui images" src="../images/update2.png">
+</div>
 
 The source code can be found [here](https://github.com/Necom1/Hana-Bot).
