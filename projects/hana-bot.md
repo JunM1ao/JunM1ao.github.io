@@ -21,7 +21,7 @@ As of 2020-1-19, the project is still ongoing.
 </div>
 
 
-Hana bot is a discord bot mainly built for moderation purposes.
+Hana bot is a discord bot mainly built for moderation purposes. The bot is not server dependent, so this can work on any server and multiple servers. However, the first time setup might take some time as settings can only be changed through discord alone.
 
 Some notable features:
 * Basic moderation commands such as prune, kick, ban...
