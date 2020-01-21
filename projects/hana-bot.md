@@ -15,9 +15,9 @@ summary: A discord bot made with discord.py (python) and MongoDB.
 As of 2020-1-19, the project is still ongoing.
 
 <div class="small images">
-  <img class="small images" src="../images/update1.png">
-  <img class="small images" src="../images/update2.png">
-  <img class="small images" src="../images/help-menu.png">
+  <img class="ui images" src="../images/update1.png">
+  <img class="ui images" src="../images/update2.png">
+  <img class="ui images" src="../images/help-menu.png">
 </div>
 
 
