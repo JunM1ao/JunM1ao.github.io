@@ -10,7 +10,7 @@ labels:
   - ICS 111
   - EZJava
   - Java
-summary: My first game made with Java and EZJava for ICS 111.
+summary: First ICS 111 Project amde with EZJava.
 ---
 This project is made with the knowledge of basic programming knowledge such as if statements, loops, and basic datatypes. Project 1 is made with no prior knowledge of classes and methods, so this could serve as a great example of what code would look like without classes or methods (messy).
 
