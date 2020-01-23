@@ -30,7 +30,7 @@ Some notable features:
 * RPG "mini-game" system (PvP tested working, need to manually add skills. Alpha-test stage.)
 * Debug-mode
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui images" src="../images/update1.png">
   <img class="ui images" src="../images/update2.png">
 </div>
