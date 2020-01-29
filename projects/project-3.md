@@ -17,7 +17,7 @@ Partner: Nick Sebastian, Justin
 
 Project 3 imcoporated 2D array and file reading to load pre-designed map layout for the game.
 
-I was responsible for making the World class that is responsible for loading the text file world, and moves the player across the screen base on user input.
+I was responsible for making the World class that is responsible for loading the text file world, and moves the player across the screen base on user input. Through this group project, I've learned coordination and group planning.
 
 The source code can be found [here](https://github.com/JunM1ao/ICS-111-Project-3).
 
