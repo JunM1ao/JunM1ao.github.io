@@ -35,4 +35,4 @@ Some notable features:
   <img class="ui images" src="../images/update2.png">
 </div>
 
-The source code can be found [here](https://github.com/Necom1/Hana-Bot).
+The source code can be found [here](https://github.com/Necom1/Hana-Bot) (Code on my other github account).
