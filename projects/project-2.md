@@ -14,7 +14,7 @@ summary: The second project for ICS 111 made with EZJava.
 ---
 Compared to [project 1](https://junm1ao.github.io/projects/ics111project1), project 2 implements classes to organize and simplify the project code. Projet 2 is made prior to learning about inherience, so the code could be simplified further. 
 
-Project 2 also added title screen along with game over screen and the ability to retry.
+Project 2 also added title screen along with game over screen and the ability to retry. Through this project, I have gained good knowledge on classes and how powerful object oriented programming can be.
 
 The source code can be found [here](https://github.com/JunM1ao/ICS-111-Project-2).
 
