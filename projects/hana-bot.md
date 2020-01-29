@@ -35,4 +35,6 @@ Some notable features:
   <img class="ui images" src="../images/update2.png">
 </div>
 
+Through programming Hana bot, I was able to put all the skills I've learned like recursion, classes, inheritence into practical use and train me how to debug a program. On top of that, I was able to get a good understanding on Python and MongoDB.
+
 The source code can be found [here](https://github.com/Necom1/Hana-Bot) (Code on my other github account).
