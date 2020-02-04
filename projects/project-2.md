@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/project2.png
+image: images/project/ics111-2/project2.png
 title: Hurricane Survival Game
 permalink: projects/ics111project2
 # All dates must be YYYY-MM-DD format!

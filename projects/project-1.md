@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/project1.png
+image: images/project/ics111-1/project1.png
 title: Dodgeball Game
 permalink: projects/ics111project1
 # All dates must be YYYY-MM-DD format!

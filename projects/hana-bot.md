@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/bot-status.png
+image: images/project/hana-bot/bot-status.png
 title: Hana Bot
 permalink: projects/hana-bot
 # All dates must be YYYY-MM-DD format!
@@ -14,7 +14,7 @@ summary: A discord bot made with discord.py (python) and MongoDB.
 ---
 As of 2020-1-19, the project is still ongoing.
 
-<img class="big intro" src="../images/help-menu.png">
+<img class="big intro" src="/images/project/hana-bot/help-menu.png">
 
 Hana bot is a discord bot mainly built for moderation purposes. The bot is not server dependent (using MongoDB to store settings), so this can work on any server and multiple servers. However, the first time setup might take some time as settings can only be changed through discord alone.
 
@@ -31,8 +31,8 @@ Some notable features:
 * Debug-mode
 
 <div class="ui medium rounded images">
-  <img class="ui images" src="../images/update1.png">
-  <img class="ui images" src="../images/update2.png">
+  <img class="ui images" src="/images/project/hana-bot/update1.png">
+  <img class="ui images" src="/images/project/hana-bot/update2.png">
 </div>
 
 Through programming Hana bot, I was able to put all the skills I've learned like recursion, classes, inheritence into practical use and train me how to debug a program. On top of that, I was able to get a good understanding on Python and MongoDB.

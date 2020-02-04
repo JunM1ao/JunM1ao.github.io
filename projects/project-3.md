@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/project3.png
+image: images/project/ics111-3/project3.png
 title: Mario Flappy Bird Game
 permalink: projects/ics111project3
 # All dates must be YYYY-MM-DD format!
