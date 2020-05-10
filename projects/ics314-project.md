@@ -5,7 +5,7 @@ published: true
 image: images/project/ics314-project/homepage.png
 title: Club Lounge
 permalink: projects/club-lounge
-date: 2019-05-13
+date: 2020-05-13
 labels:
   - ICS 314
   - Meteor
