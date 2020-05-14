@@ -4,7 +4,6 @@ type: project
 image: images/project/hana-bot/bot-status.png
 title: Hana Bot
 permalink: projects/hana-bot
-# All dates must be YYYY-MM-DD format!
 date: 2019-06-30
 labels:
   - Python

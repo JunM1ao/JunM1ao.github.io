@@ -15,7 +15,7 @@ summary: Final project (group) for ICS 111 made using EZJava. A flappy bird styl
 ---
 Partner: Nick Sebastian, Justin
 
-Project 3 imcoporated 2D array and file reading to load pre-designed map layout for the game.
+Project 3 incorporated 2D array and file reading to load pre-designed map layout for the game.
 
 I was responsible for making the World class that is responsible for loading the text file world, and moves the player across the screen base on user input. Through this group project, I've learned coordination and group planning.
 
