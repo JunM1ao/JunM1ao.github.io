@@ -1,0 +1,13 @@
+
+<br/>
+<br/>
+<div class="ui container">
+  {% assign essay_pages = site.pages | where: "type", "essay" | sort: "date" | reverse %}
+  {% for page in essay_pages %}
+  {% unless page.draft %}
+  {% include custom-essay.html page=page %}
+  {% endunless %}
+  {% endfor %}
+</div>
+<br/>
+<br/>

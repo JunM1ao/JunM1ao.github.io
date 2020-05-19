@@ -3,10 +3,17 @@
 
   {% include head.html %}
 
-  <body>
-    {{ content }}
-    {% include footer.html %}
+  {% if page.url == "/" %}
+  <body id="body2">
+  {{ content }}
+
+  </body id="body2">
+  {% else %}
+  <body id="body1">
+  {{ content }}
+  {% include footer.html %}
 
   </body>
+  {% endif %}
 
 </html>
