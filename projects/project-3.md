@@ -4,7 +4,6 @@ type: project
 image: images/project/ics111-3/project3.png
 title: Mario Flappy Bird Game
 permalink: projects/ics111project3
-# All dates must be YYYY-MM-DD format!
 date: 2018-11-26
 labels:
   - ICS 111
@@ -21,6 +20,6 @@ I was responsible for making the World class that is responsible for loading the
 
 The source code can be found [here](https://github.com/JunM1ao/ICS-111-Project-3).
 
-### Demo
+### [Demo](https://youtu.be/mLztFxiPXHQ)
 <div class="ui embed" data-source="youtube" data-id="mLztFxiPXHQ">
 </div>

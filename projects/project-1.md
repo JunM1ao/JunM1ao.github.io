@@ -17,6 +17,6 @@ Even with the messy code, this project is able to help me gain a solid understan
 
 The source code can be found [here](https://github.com/JunM1ao/ICS-111-Project-1).
 
-### Demo
+### [Demo](https://youtu.be/HEakSn5i3-M)
 <div class="ui embed" data-source="youtube" data-id="HEakSn5i3-M">
 </div>

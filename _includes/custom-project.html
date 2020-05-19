@@ -1,0 +1,26 @@
+<!-- Used by custom-projects -->
+
+<a class="card"
+   href={% if page.projecturl %}"{{ page.projecturl }}"{% else %}"{{ site.baseurl}}{{ include.page.url }}"{% endif %}>
+  {% if include.page.image %}
+  <div class="image">
+    <img src="{{ site.baseurl }}/{{ include.page.image }}">
+  </div>
+  {% endif %}
+  <div class="ui large red top right attached label">{{ include.page.date }}</div>
+  <div class="content">
+    <span class="header">{{ include.page.title }}</span>
+
+    <div class="description">
+      {{ include.page.summary }}
+    </div>
+    <br/>
+    <div class="ui small teal labels">
+      {% for label in include.page.labels %}
+      <div class="ui ribbon label">{{ label }}</div>
+      <p></p>
+      {% endfor %}
+    </div>
+
+  </div>
+</a>

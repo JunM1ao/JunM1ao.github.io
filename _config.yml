@@ -14,7 +14,7 @@ bio-page-label: Resume
 # You might want to change the theme associated with one or more sections of the site.
 # Defining your own custom theme variations is easy. See the documentation.
 theme-home: custom-home.html
-theme-projects: theme-projects-builtin-1.html
+theme-projects: custom-projects.html
 theme-essays: custom-essays.html
 theme-bio: custom-bio.html
 
