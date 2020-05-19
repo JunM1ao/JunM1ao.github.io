@@ -6,22 +6,13 @@
 // Here are some common customizations for colors
 
 // Customize the background color
-#body1 {
-  background: linear-gradient(to right, #55efc4, #81ecec);
-  // background-image: url("/images/background.jpg");
-}
-
-#body2 {
+body {
   background: url("/images/background.jpg") no-repeat center center fixed;
 }
 
 // Customize the menubar color
 .ui.menu {
   // background: linear-gradient(to left, #00d2d3, #1dd1a1);
-}
-
-.background {
-  background: url('/images/background.jpg') no-repeat center center fixed;
 }
 
 // Customize the home page icon colors
