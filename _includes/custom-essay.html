@@ -1,11 +1,11 @@
 <!-- Used by theme-essays-builtin-2 -->
 
 <div class="ui raised segment" style="margin-top: 1em; margin-bottom: 4em">
-  <a class="ui large red label ribbon">{{ include.page.date | date_to_string }}</a>
+  <div class="ui large red label ribbon">{{ include.page.date | date_to_string }}</div>
   <h2 class="header">{{ include.page.title }}</h2>
   <p>{{ include.page.content | markdownify | strip_html | truncatewords: 60 }}</p>
   {% for label in include.page.labels %}
-  <a class="ui teal right ribbon label">{{ label }}</a>
+  <div class="ui teal right ribbon label">{{ label }}</div>
   <p></p>
   {% endfor %}
   <a class="ui large blue label ribbon" href="{{ site.baseurl}}{{ include.page.url }}">Read More</a>

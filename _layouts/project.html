@@ -4,7 +4,8 @@ layout: projects
 
 <br/>
 <div class="ui text segment container">
- <h1>{{ page.title }}</h1>
- {{ content }}
+  <div class="ui large red top right attached label">{{ page.date | date_to_string }}</div>
+  <h1>{{ page.title }}</h1>
+  {{ content }}
 </div>
 <br/>
