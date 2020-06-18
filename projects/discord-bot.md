@@ -15,7 +15,7 @@ As of 2020-6-18, the project is still ongoing.
 
 Mango is a discord bot mainly built for moderation purposes. The bot is not server dependent (using MongoDB to store settings), so this can work on any server and multiple servers. However, the first time setup might take some time as settings can only be changed through discord alone.
 
-<img class="ui images" src="/images/project/discord-bot/log.png">
+<img class="big intro" src="/images/project/discord-bot/log.png">
 
 Some notable features:
 * Basic moderation commands such as prune, kick, ban...
