@@ -17,6 +17,6 @@ Project 2 also added title screen along with game over screen, and the ability t
 
 The source code can be found [here](https://github.com/JunM1ao/ICS-111-Project-2).
 
-### [Demo](https://youtu.be/lGa06bnji6Y)
+#### [Demo](https://youtu.be/lGa06bnji6Y)
 <div class="ui embed" data-source="youtube" data-id="lGa06bnji6Y">
 </div>

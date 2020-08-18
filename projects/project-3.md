@@ -20,6 +20,6 @@ I was responsible for making the World class that is responsible for loading the
 
 The source code can be found [here](https://github.com/JunM1ao/ICS-111-Project-3).
 
-### [Demo](https://youtu.be/mLztFxiPXHQ)
+#### [Demo](https://youtu.be/mLztFxiPXHQ)
 <div class="ui embed" data-source="youtube" data-id="mLztFxiPXHQ">
 </div>
