@@ -9,9 +9,10 @@ labels:
   - Python
   - MongoDB
   - discord.py
+  - Personal Project
 summary: A discord bot made with discord.py (python) and MongoDB.
 ---
-As of 2020-6-18, the project is still ongoing.
+As of 2021-6-30, the project have a stable release.
 
 Mango is a discord bot mainly built for moderation purposes. The bot is not server dependent (using MongoDB to store settings), so this can work on any server and multiple servers. However, the first time setup might take some time as settings can only be changed through discord alone.
 
