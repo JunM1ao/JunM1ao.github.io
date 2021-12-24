@@ -10,7 +10,7 @@ labels:
   - MongoDB
   - discord.py
   - Personal Project
-summary: A discord bot made with discord.py (python) and MongoDB.
+summary: A moderation Discord bot made with Discord.py (python) and MongoDB.
 ---
 As of 2021-6-30, the project have a stable release.
 

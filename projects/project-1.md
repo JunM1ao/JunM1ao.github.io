@@ -1,8 +1,10 @@
 ---
 layout: project
 type: project
+hidden: True
 image: images/project/ics111-1/project1.png
 title: Dodgeball Game
+published: false
 permalink: projects/ics111project1
 date: 2018-09-14
 labels:

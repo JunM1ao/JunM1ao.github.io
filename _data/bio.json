@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Jun Miao",
-    "label": "Student",
-    "picture": "https://junm1ao.github.io/images/Jun.png",
+    "label": "Undergraduate",
+    "picture": "https://junm1ao.github.io/images/gr.jpg",
     "email": "junmiaomail@gmail.com",
-    "phone": "",
+    "phone": "(808) 392-7263",
     "website": "https://junm1ao.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2021.",
+    "summary": "Bachelor of Science in Computer Science from the Department of Information and Computer Sciences at the University of Hawaii.",
     "location": {
       "address": "",
       "postalCode": "96818",
@@ -65,7 +65,9 @@
       "level": "",
       "keywords": [
         "Windows 10",
-        "Git/GitHub"
+        "Ubuntu",
+        "Git/GitHub",
+        "Android Studio"
       ]
     },
     {
@@ -78,34 +80,16 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected to graduate in Fall 2021)",
-      "studyType": "B.S.",
+      "institution": "University of Hawaii At Manoa",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
       "startDate": "2018-09-01",
-      "endDate": "Present",
-      "gpa": "3.65",
-      "courses": [
-        "ICS 111 - Introduction to Computer Science I",
-        "ICS 141 - Discrete Mathematics for Computer Science I",
-        "ICS 211 - Introduction to Computer Science II",
-        "ICS 212 - ICS Scripting or C/C++",
-        "ICS 241 - Discrete Mathematics for Computer Science II",
-        "ICS 311 - Algorithms",
-        "ICS 312 - Machine-Lvl & Systems Programming",
-        "ICS 314 - Software Engineering I",
-        "ICS 321 - Database Systems I",
-        "ICS 332 - Operating Systems",
-        "ICS 414 - Software Engineering II",
-        "ICS 419 - The Science, Psychology and Philosophy of Systems Design",
-        "ICS 427 - Programming Approaches to Software Quality Assurance",
-        "ICS 438 - Big Data Analytics",
-        "ICS 451 - Data Networks",
-        "ICS 466 - Design for Mobile Devices"
-      ]
+      "endDate": "2021-12-18",
+      "gpa": "3.62"
     }
   ],
-  // "work": [
-  // ],
+//   "work": [
+//   ],
   "volunteer": [
     {
       "organization": "Liliha Library - 2016 Summer Reading Program",
