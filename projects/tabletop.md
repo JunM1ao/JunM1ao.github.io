@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/project/tabletop/spin1.png
+image: images/project/tabletop/pts1.png
 title: Tabletop Tools
 permalink: projects/tabletop
 date: 2021-12-10

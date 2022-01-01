@@ -11,7 +11,7 @@ labels:
   - Python
   - Tkinter
   - Group Project
-summary: Group project for ICS 414. Project aims create a basic ICS file reader with our understanding of the ICS file structure.
+summary: Group project for ICS 414. Project aims create a basic ICS file reader with our understanding of the ICS file structure. With the Graphic User Interface built entirely with Tkinter.
 ---
 ### [Event Planner Project Page](https://github.com/Oak-Tree-Flakes/EventPlanner/)
 

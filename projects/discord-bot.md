@@ -8,9 +8,9 @@ date: 2019-06-30
 labels:
   - Python
   - MongoDB
-  - discord.py
+  - Discord.py
   - Personal Project
-summary: A moderation Discord bot made with Discord.py (python) and MongoDB.
+summary: A moderation Discord bot made with Discord.py and MongoDB. It contains standard moderation commands like prune, kick, and ban; but also have a chat scanner to remove "inappropriate" messages and a raid detection system.
 ---
 As of 2021-6-30, the project have a stable release.
 
