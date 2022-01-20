@@ -11,6 +11,6 @@ labels:
   - Meteor
   - Semantic UI
   - Group Project
-summary: Group project for ICS 427. Project aims create a help site to help with Algorithm (ICS-311) courses, with some security practices. 
+summary: Group project for ICS 427. The project aims to create a help site to help with Algorithm (ICS-311) courses, with some security practices. 
 projecturl: https://cross-country-coders.github.io/
 ---
