@@ -93,8 +93,21 @@
       "gpa": "3.62"
     }
   ],
-//   "work": [
-//   ],
+  "work": [
+    {
+      "organization": "Accenture Federal Services",
+      "website": "https://www.accenture.com/",
+      "position": "Software Engineer Associate",
+      "startDate": "2022-05",
+      "endDate": "2022-08",
+      "summary": "2022 Summer Software Engineer Internship at AFS",
+      "highlights": [
+        "GoLang",
+        "Javascript",
+        "Linux"
+      ]
+    }
+  ],
   "volunteer": [
     {
       "organization": "Liliha Library - 2016 Summer Reading Program",
