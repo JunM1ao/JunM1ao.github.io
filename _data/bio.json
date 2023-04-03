@@ -1,8 +1,8 @@
 {
   "basics": {
     "name": "Jun Miao",
-    "label": "CS Graduate",
-    "picture": "https://junm1ao.github.io/images/gr.jpg",
+    "label": "JR Software Developer",
+    "picture": "https://github.com/JunM1ao.png",
     "email": "junmiaomail@gmail.com",
     "phone": "(808) 392-7263",
     "website": "https://junm1ao.github.io",
@@ -70,6 +70,7 @@
       "level": "",
       "keywords": [
         "Windows 10",
+        "Windows 11",
         "Ubuntu",
         "Git/GitHub",
         "Android Studio"
@@ -90,7 +91,7 @@
       "studyType": "Bachelor of Science",
       "startDate": "2018-09-01",
       "endDate": "2021-12-18",
-      "gpa": "3.62"
+      "gpa": "Cum Laude"
     }
   ],
   "work": [
@@ -101,6 +102,18 @@
       "startDate": "2022-05",
       "endDate": "2022-08",
       "summary": "2022 Summer Software Engineer Internship at AFS",
+      "highlights": [
+        "GoLang",
+        "Javascript",
+        "Linux"
+      ]
+    }, {
+      "organization": "Accenture Federal Services",
+      "website": "https://www.accenture.com/",
+      "position": "Software Engineer Associate",
+      "startDate": "2022-08",
+      "endDate": "present",
+      "summary": "Junior Software Engineer at AFS",
       "highlights": [
         "GoLang",
         "Javascript",
