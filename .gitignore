@@ -4,7 +4,6 @@
 *.iml
 _site/
 .sass-cache/
-Gemfile
 Gemfile.lock
 .jekyll-cache/
 *.bat
