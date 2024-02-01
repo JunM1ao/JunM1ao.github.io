@@ -6,7 +6,7 @@
     "email": "junmiaomail@gmail.com",
     "phone": "(808) 392-7263",
     "website": "https://junm1ao.github.io",
-    "summary": "Bachelor of Science in Computer Science from the Department of Information and Computer Sciences at the University of Hawaii.",
+    "summary": "Junior Software Engineer At AFS.",
     "location": {
       "address": "",
       "postalCode": "96818",
@@ -62,7 +62,8 @@
         "Javascript",
         "Meteor",
         "Python",
-        "React"
+        "React",
+        "EXT.JS",
       ]
     },
     {
@@ -72,6 +73,7 @@
         "Windows 10",
         "Windows 11",
         "Ubuntu",
+        "Linux",
         "Git/GitHub",
         "Android Studio"
       ]
