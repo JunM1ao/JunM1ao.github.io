@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Jun Miao",
-    "label": "JR Developer",
+    "label": "Software Engineer",
     "picture": "https://github.com/JunM1ao.png",
     "email": "junmiaomail@gmail.com",
     "phone": "(808) 392-7263",
     "website": "https://junm1ao.github.io",
-    "summary": "Junior Software Engineer At AFS.",
+    "summary": "Software Engineer At AFS.",
     "location": {
       "address": "",
       "postalCode": "96818",
@@ -99,31 +99,18 @@
   "work": [
     {
       "organization": "Accenture Federal Services",
-      "website": "https://www.accenture.com/",
+      "website": "https://www.accenture.com/us-en/industries/accenture-federal-services",
       "position": "Software Engineer Associate",
       "startDate": "2022-05",
-      "endDate": "2022-08",
-      "summary": "2022 Summer Software Engineer Internship at AFS",
-      "highlights": [
-        "GoLang",
-        "Javascript",
-        "Linux"
-      ]
-    }, {
-      "organization": "Accenture Federal Services",
-      "website": "https://www.accenture.com/",
-      "position": "Software Engineer Associate",
-      "startDate": "2022-08",
       "endDate": "Present",
-      "summary": "Junior Software Engineer at AFS",
+      "summary": "Software Engineering Analyst at AFS",
       "highlights": [
-        "GoLang",
-        "Javascript",
-        "Typescript",
-        "React",
-        "Ext.js",
-        "Agile",
-        "Linux"
+        "Geosptial Application",
+        "Mostly Focused on Front-End Development",
+        "Developed in CentOS 7 Linux Environment",
+        "Front-End Interfaces Made with React and Ext.js",
+        "Golang Back-End Server",
+        "PostgreSQL Database",
       ]
     }
   ],
