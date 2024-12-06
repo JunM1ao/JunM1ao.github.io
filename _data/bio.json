@@ -98,6 +98,18 @@
   ],
   "work": [
     {
+      "organization": "Valley IT Solutions",
+      "website": "https://www.valleyit.com/",
+      "position": "Software Engineer",
+      "startDate": "2024-10",
+      "endDate": "Present",
+      "summary": "Software Engineer at VITS",
+      "highlights": [
+        "Front-End Development with React",
+        "Agile Development Cycle",
+      ]
+    },
+    {
       "organization": "Accenture Federal Services",
       "website": "https://www.accenture.com/us-en/industries/accenture-federal-services",
       "position": "Software Engineering Associate",
